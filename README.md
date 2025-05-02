@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Mickey.
 
-<!--
-**mickey-unhinged/mickey-unhinged** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 I’m a passionate and curious developer currently learning Java and Web Dev.  
+🚀 I’m building real-world projects to grow from beginner to pro.  
+🌱 Currently working on small projects here and there.  
+🛠️ Tech I’m learning: Python, JavaScript, React, Node.js, Git.  
+📫 How to reach me: whatsapp me [+254791066161]
+---
 
-Here are some ideas to get you started:
+## 🧰 Tech Stack:
+- 🌐 Frontend: HTML, CSS, JavaScript
+- 🔙 Backend: Node.js, Python, Java
+- 🗄️ Databases: MySQL, MongoDB
+- ⚙️ Tools: Git, GitHub, VSCode
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📂 Projects:
+See pinned repositories for my work, including beginner and advanced apps.
+
